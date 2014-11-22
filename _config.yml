@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Nick Nance
-tagline:             'Nick Nance'
-description:         'Nick Nance Blog.'
+tagline:             'Build it together'
+description:         'Passionate about solving business problems with modern web technologies and open source'
 url:                 http://nnance.me
 baseurl:             http://nnance.github.io/
 paginate:            5
