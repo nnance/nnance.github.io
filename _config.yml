@@ -13,7 +13,7 @@ title:               Nick Nance
 tagline:             'Nick Nance'
 description:         'Nick Nance Blog.'
 url:                 http://nnance.me
-baseurl:             http://nnance.github.io
+baseurl:             http://nnance.github.io/
 paginate:            5
 
 # About/contact
