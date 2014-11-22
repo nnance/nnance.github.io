@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Nick Nance
-tagline:             'Build it together'
-description:         'Passionate about solving business problems with modern web technologies and open source. @nancenick'
+tagline:             "Let's build it together"
+description:         'Passionate about solving business problems with modern web technologies and open source. <a href="https://twitter.com/nancenick">@nancenick</a>'
 url:                 http://nnance.me
 baseurl:             http://nnance.github.io/
 paginate:            5
