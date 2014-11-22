@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Nick Nance
 tagline:             'Build it together'
-description:         'Passionate about solving business problems with modern web technologies and open source'
+description:         'Passionate about solving business problems with modern web technologies and open source. @nancenick'
 url:                 http://nnance.me
 baseurl:             http://nnance.github.io/
 paginate:            5
