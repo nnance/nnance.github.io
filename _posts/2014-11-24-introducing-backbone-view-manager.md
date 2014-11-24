@@ -3,6 +3,8 @@ layout: post
 title: Introducing Backbone View Manager
 ---
 
+![](/public/projects/backbone.viewmanager.png)
+
 Your probably asking yourself why would anyone be releasing a new plugin for managing [Backbone](http://backbonejs.org) views.  Especially now that Backbone is no longer in vogue.  Well, in short, I am still a strong supporter of Backbone. I believe in it's minimal unopionated philosophy.  I prefer frameworks which give each project the most flexibility possible while providing a minimal application structure and utility.  
 
 As a software architect for many different projects, I have been reasonable for making technology decisions as it applies to the software stack.  I have selected to work with everything from very large frameworks [ExtJS](http://www.sencha.com/products/extjs/) to minimal frameworks like Backbone.  As a result, I have come to appreciate the value in flexibility that minimum frameworks provide.  
