@@ -10,10 +10,10 @@ relative_permalinks: true
 
 # Setup
 title:               Nick Nance
-tagline:             "Let's build it together"
-description:         'Passionate about solving business problems with modern web technologies and open source. <a href="https://twitter.com/nancenick">@nancenick</a>'
+tagline:             'Code and Architecture in Javascript'
+description:         'Passionate about solving business problems with modern web technologies and open source'
 url:                 http://nnance.me
-baseurl:             http://nnance.github.io/
+baseurl:             /
 paginate:            5
 
 # About/contact
