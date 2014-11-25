@@ -16,6 +16,9 @@ url:                 http://nnance.me
 baseurl:             /
 paginate:            5
 
+# Build
+future: false
+
 # About/contact
 author:
   name:              Nick Nance

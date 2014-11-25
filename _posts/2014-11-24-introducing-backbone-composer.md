@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Backbone Composer
+tags: javascript backbone composer
 ---
 
 ![](/public/projects/backbone-composer.png)
