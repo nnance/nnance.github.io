@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Reactive Microservice Architecture in Node
 tags: javascript nodejs reactive architecture
 ---

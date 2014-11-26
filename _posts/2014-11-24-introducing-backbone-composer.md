@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Introducing Backbone Composer
 tags: javascript backbone composer
 ---
