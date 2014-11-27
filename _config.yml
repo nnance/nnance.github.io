@@ -18,6 +18,7 @@ paginate:            5
 
 # Build
 future: false
+excerpt_separator: <!--more-->
 
 # About/contact
 author:
