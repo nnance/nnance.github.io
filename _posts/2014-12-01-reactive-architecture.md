@@ -8,6 +8,7 @@ tags: javascript nodejs reactive architecture
 ![](/public/react.jpg)
 
 This is the start of what I expect to be several posts on the subject of applying Node in a reactive microservice architecture. I have found that by building single purpose node modules as microservices that live on a scalable message queue, I am able to piece together interesting applications simply as a result of how I deploy and configure these services. In this series of articles I will provide code and deployment examples that show this architecture in action.
+
 <!--more-->
 
 ## Inspiration
