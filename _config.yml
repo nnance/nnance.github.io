@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Nick Nance
 tagline:             'Code and Architecture in Javascript'
 description:         'Passionate about solving business problems with modern web technologies and open source'
-url:                 http://staging.nnance.me
+url:                 http://nnance.me
 baseurl:             /
 paginate:            5
 
